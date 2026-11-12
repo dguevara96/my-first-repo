@@ -3,3 +3,11 @@
   text-align: center;
   font-size: 100px;
 }
+.pokelink {
+  color: red;
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+  border: 8px solid black;
+  background-color: white;
+}
